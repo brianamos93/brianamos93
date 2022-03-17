@@ -2,7 +2,7 @@
 - 👀 I’m interested in web design and developement
 - 🌱 I’m currently learning javascript and react.
 - 💞️ I’m looking to collaborate on intersting web projects.
-- 📫 How to reach me ... [@IzzoStudios](https://twitter.com/izzostudios)
+- 📫 Reach me at [@IzzoStudios](https://twitter.com/izzostudios)
 
 <!---
 brianamos93/brianamos93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
